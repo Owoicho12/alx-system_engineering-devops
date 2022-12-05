@@ -1,2 +1,0 @@
-#!/bin/bash
-find -type -name "*.gif" -printf "%f\n" | rev | LC_ALC=C sort f
